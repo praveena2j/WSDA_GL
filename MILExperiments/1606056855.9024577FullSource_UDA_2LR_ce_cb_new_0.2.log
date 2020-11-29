@@ -1,0 +1,59 @@
+INFO:root:Subject16
+INFO:root:Loading source train data
+INFO:root:Batch Size:4
+INFO:root:Stride:12
+INFO:root:Num of source train videos :18
+INFO:root:Num of source train sequences :6997
+INFO:root:The number of source training batches = 1380
+INFO:root:Loading target train data
+INFO:root:Batch Size:2
+INFO:root:Stride:8
+INFO:root:Num of training videos :112
+INFO:root:Num of target train sequences :2760
+INFO:root:The number of target training batches = 1380
+INFO:root:Loading source val data
+INFO:root:The number of source validation batches = 185
+INFO:root:Loading target val data
+INFO:root:Batch Size:8
+INFO:root:Stride:8
+INFO:root:Num of target val videos :72
+INFO:root:Num of target val sequences :1448
+INFO:root:The number of target validation batches = 181
+INFO:root:Loading target test data
+INFO:root:Batch Size:1
+INFO:root:Stride:64
+INFO:root:Loading Test data
+INFO:root:Num of test sequences :49
+INFO:root:The number of target test batches = 49
+INFO:root:Training
+INFO:root:
+Epoch: 0
+INFO:root:learning_rate: 0.001
+INFO:root:test_accuracy:
+INFO:root:[3.061224489795918]
+INFO:root:PCC_test:
+INFO:root:[-0.06833546501995671]
+INFO:root:ICC_test:
+INFO:root:[-0.02463171422451742]
+INFO:root:MAE_test:
+INFO:root:[1.2653061224489797]
+INFO:root:MMAE_test
+INFO:root:[4.0]
+INFO:root:weighted_fscore
+INFO:root:[0.007203468113057043]
+INFO:root:PCC_s_val:
+INFO:root:[-0.004983551678045145]
+INFO:root:PCC_t_val:
+INFO:root:[nan]
+INFO:root:ICC_val:
+INFO:root:[-0.001181697457729549]
+INFO:root:MAE_test:
+INFO:root:[1.2653061224489797]
+INFO:root:MMD_Valid:
+INFO:root:[0]
+INFO:root:MMD_train:
+INFO:root:[0.0]
+INFO:root:Training
+INFO:root:
+Epoch: 1
+INFO:root:learning_rate: 0.001

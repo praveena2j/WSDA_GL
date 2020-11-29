@@ -1,0 +1,31 @@
+INFO:root:Subject16
+INFO:root:Loading source train data
+INFO:root:Batch Size:4
+INFO:root:Stride:15
+INFO:root:Num of source train videos :18
+INFO:root:Num of source train sequences :5599
+INFO:root:The number of source training batches = 1120
+INFO:root:Loading target train data
+INFO:root:Batch Size:2
+INFO:root:Stride:8
+INFO:root:Num of training videos :112
+INFO:root:Num of target train sequences :2760
+INFO:root:The number of target training batches = 1380
+INFO:root:Loading source val data
+INFO:root:The number of source validation batches = 140
+INFO:root:Loading target val data
+INFO:root:Batch Size:8
+INFO:root:Stride:8
+INFO:root:Num of target val videos :72
+INFO:root:Num of target val sequences :1448
+INFO:root:The number of target validation batches = 181
+INFO:root:Loading target test data
+INFO:root:Batch Size:1
+INFO:root:Stride:64
+INFO:root:Loading Test data
+INFO:root:Num of test sequences :49
+INFO:root:The number of target test batches = 49
+INFO:root:Training
+INFO:root:
+Epoch: 0
+INFO:root:learning_rate: 0.001

@@ -1,0 +1,12 @@
+INFO:root:Subject16
+INFO:root:Loading source train data
+INFO:root:Batch Size:4
+INFO:root:Stride:15
+INFO:root:Num of source train videos :18
+INFO:root:Num of source train sequences :5599
+INFO:root:The number of source training batches = 1100
+INFO:root:Loading target train data
+INFO:root:Batch Size:2
+INFO:root:Stride:8
+INFO:root:Num of training videos :112
+INFO:root:Num of target train sequences :2760
